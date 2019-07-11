@@ -14,7 +14,7 @@ itk-jupyter-widgets
     :alt: Build status
 
 .. image:: https://mybinder.org/badge.svg
-    :target: https://mybinder.org/v2/gh/InsightSoftwareConsortium/itk-jupyter-widgets/master?filepath=examples%2F3DImage.ipynb
+    :target: https://mybinder.org/v2/gh/consideratio/itk-jupyter-widgets/master?filepath=examples%2F3DImage.ipynb
 
 Interactive `Jupyter <https://jupyter.org/>`_ widgets to visualize images,
 point sets, and meshes.
