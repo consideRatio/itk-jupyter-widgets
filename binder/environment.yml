@@ -3,9 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.6
+  - python=3.7
   - numpy
   - itk
+  - jupyterlab=1.0.1
   - pip:
     - ipywidgets>=7.1.2
     - numpy
